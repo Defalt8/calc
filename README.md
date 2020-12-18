@@ -29,6 +29,8 @@ Commandline calculator. A simple mathematical term evaluation tool.
   - `calc "(5 + 2) * 3"` = 21.00000
   - `calc 5^2 - 3` = 11.00000
   - ...
+
 ## NOTES
+
   - Take note of how the terminal you use expands parameters before feeding it in to calc.
   - On bash you need to surround the parameters with quotes to escape `*`, `(`, `)` and other expansions.
